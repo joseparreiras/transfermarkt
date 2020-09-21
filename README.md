@@ -12,7 +12,11 @@ Extracts the historical market values for a given continent
   1. *continent*: the selected continent
 
 #### Output:
-A dictionary with a set of players info:
+A *Python* dictionary 
+
+{player:{name, id, current_team}, market_value:{value,team,date}}
+
+with a set of players info:
 1. *name*:  player's name on transfermarkt
 2. *id*:  transfermarkt's unique id number for each player
 3. *current_team*:  team player was registered for on the scrapping date
