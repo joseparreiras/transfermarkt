@@ -18,6 +18,6 @@ A dictionary with a set of players info:
 3. *current_team*:  team player was registered for on the scrapping date
 
 along with a dictionary with the historical market values:
-1. *value*: the players value in euros (ex. 10000000 = 10M€)
-2. *team*: the team the player was registered for on the day of the valuation
-3. *date*: the valuation date ('yyyy-mm-dd')
+4. *value*: the players value in euros (ex. 10000000 = 10M€)
+5. *team*: the team the player was registered for on the day of the valuation
+6. *date*: the valuation date ('yyyy-mm-dd')
