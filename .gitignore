@@ -4,3 +4,6 @@
 /liverpool.csv
 /table.json
 /table.txt
+/__pycache__
+/spiders/__pycache__
+temporary.json
