@@ -1,10 +1,8 @@
 import scrapy
-import pandas as pd
 from scrapy.http import Request
-import json
+
+import pandas as pd
 import numpy as np
-from scrapy.utils.response import open_in_browser
-from tempfile import TemporaryFile
 from ast import literal_eval
 
 
