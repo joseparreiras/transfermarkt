@@ -9,7 +9,7 @@ The MVs are collected for each player in the First Tear competitions of a given 
 extracts the historical market values for a given continent
 
 - args:
-1. continent: the selected continent
+  1. continent: the selected continent
 
 ## Returns:
 The scrapy spider returns a dictionary with a set of players info:
