@@ -14,13 +14,7 @@ Extracts the historical market values for a given continent
 #### Output:
 A *Python* dictionary:
 
-{
-player:
-{name,
-id,
-current_team},
-market_value:{  value,  team, date}
-}
+{ player  : { name, id, current_team},  market_value  : {  value,  team, date}  }
 
 with a set of players info:
 1. *name*:  player's name on transfermarkt
