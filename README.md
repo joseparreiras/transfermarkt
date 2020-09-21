@@ -1,6 +1,6 @@
 # transfermarkt
 
-Scrapping of hitorical **Market Values** (MV) www.transfermarkt.com using Scrapy.
+Scrapping of **Historical Market Values** (MV) www.transfermarkt.com using Scrapy.
 The MVs are collected for each player in the First Tear competitions of a given continent.
 
 ## Spiders:
