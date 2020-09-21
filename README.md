@@ -15,11 +15,8 @@ Extracts the historical market values for a given continent
 A *Python* dictionary:
 
 {
-
 player:{name, id, current_team},
-
 market_value:{value,team,date}
-
 }
 
 with a set of players info:
