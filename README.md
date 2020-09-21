@@ -17,7 +17,7 @@ A dictionary with a set of players info:
 2. *id*:  transfermarkt's unique id number for each player
 3. *current_team*:  team player was registered for on the scrapping date
 
-along with a dictionary with the historical market values:
+along with the historical market values:
 
 4. *value*: the players value in euros (ex. 10000000 = 10M€)
 5. *team*: the team the player was registered for on the day of the valuation
